@@ -1,0 +1,130 @@
+body
+{font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif;
+  margin: 0;
+  text-align: center;
+  font-size: 1em;
+}
+h1 {
+  margin-top: 0;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 0;
+  padding: 50px;
+  position: relative;
+
+}
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+h3{
+  color: #11999E;
+}
+a {
+  color: #11999E;
+}
+hr {
+ border-style: dotted;
+ border-color: black;
+ width: 2em;
+ border-top: 0;
+ height: 0.5em;
+ border-left: 0;
+ border-right: 0;
+
+
+}
+.top-container {
+  background-color: #EAF6F6;
+
+}
+
+
+.middle-container {
+background-color: white;
+
+}
+.bottom-container {
+
+}
+.cloud1 {
+position: absolute;
+width: 300px;
+height: 300px;
+margin: 0;
+right: 1000px;
+
+}
+.cloud {
+position:  absolute;
+right: 900px;
+top: 400px;
+display: none;
+
+
+}
+.mountain {
+}
+.myself {
+  border-radius: 100%;
+}
+.intro {
+  font-weight: normal;
+  line-height: 0;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.fifa {
+  float: left;
+  margin-right: 30px;
+}
+.coding {
+  float: right;
+  margin-left: 30px;
+}
+.footer-link1 {
+  display: none;
+}
+.BUTTON_KCZ {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #000000;
+   font-family: sans-serif;
+   font-size: 22px;
+   font-weight: 100;
+   padding: 19px;
+   -webkit-box-shadow: inset 1px 1px 20px 19px #FFFFFF;
+   -moz-box-shadow: inset 1px 1px 20px 19px #FFFFFF;
+   box-shadow: inset 1px 1px 20px 19px #FFFFFF;
+   text-shadow: -19px -14px 20px #FFFFFF;
+   border: solid #FFFFFF 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_KCZ:hover {
+   border: solid #000000 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
